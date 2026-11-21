@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "Saathi (সাথী) — Voice-First Bengali, English &amp;amp; Hindi Android Assistant",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SATHI-AI..",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SATHI-AI..",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Com. Aistudio. Saathi"
+}
