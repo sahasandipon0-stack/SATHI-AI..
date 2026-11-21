@@ -1,0 +1,6 @@
+{
+  "name": "Saathi",
+  "description": "Saathi (সাথী) — Voice-first Bengali AI assistant with wake-word detection, Bengali song & script writer, YouTube Studio helper, AI image generator, smart replies, and one-tap app launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
